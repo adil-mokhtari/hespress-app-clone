@@ -20,22 +20,22 @@ This is a full-stack **Hespress-style news application**, featuring a mobile app
 ## 📱 Screenshots
 
 ### 🏠 Home Page  
-![Home Page](screenshots/home.png)
+![Home Page](screenshot/home.png)
 
 ---
 
 ### 📂 Navigation Drawer  
-![Navigation Drawer](screenshots/drawer.png)
+![Navigation Drawer](screenshot/drawer.png)
 
 ---
 
 ### 📰 Post Page  
-![Post Page](screenshots/post.png)
+![Post Page](screenshot/post.png)
 
 ---
 
 ### 🔍 Search Page  
-![Search Page](screenshots/search.png)
+![Search Page](screenshot/search.png)
 
 ---
 
