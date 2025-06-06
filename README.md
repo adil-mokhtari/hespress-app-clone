@@ -1,47 +1,27 @@
-# 📰 Hespress Clone – Flutter + WordPress Plugin
+# 📰 Hespress App Clone
 
-This is a full-stack **Hespress-style news application**, featuring a mobile app built with **Flutter** and a custom **WordPress plugin** that provides a REST API for articles, categories, and comments.
+This is a Flutter-based news app that connects to a custom WordPress plugin. It supports Arabic (RTL), categories, search, and navigation drawer UI.
 
----
+## 🔧 Features
 
-## 📦 Features
-
-- 📰 Display latest news articles
-- 📚 Filter by categories
-- 🔍 Search functionality
-- 🧭 Navigation Drawer
-- 🌐 Arabic RTL support
-- 💬 Comments & Post details
-- ☁️ Data fetched from WordPress REST API
-- 🛠️ Plugin: Custom-built WordPress API endpoints
-
----
+- 🗞️ Latest news from WordPress
+- 🧭 Navigation drawer
+- 🔍 Search page
+- 📚 Categories filter
+- 📄 Post detail page
+- 🌐 RTL Arabic support
 
 ## 📱 Screenshots
 
-### 🏠 Home Page  
-![Home Page](screenshot/home.png)
+| Home | Drawer |
+|------|--------|
+| ![](screenshot/home.png) | ![](screenshot/drawer.png) |
 
----
+| Post | Search |
+|------|--------|
+| ![](screenshot/post.png) | ![](screenshot/search.png) |
 
-### 📂 Navigation Drawer  
-![Navigation Drawer](screenshot/drawer.png)
-
----
-
-### 📰 Post Page  
-![Post Page](screenshot/post.png)
-
----
-
-### 🔍 Search Page  
-![Search Page](screenshot/search.png)
-
----
-
-## 🔧 Setup Instructions
-
-### 📱 Mobile App (Flutter)
+## 🚀 Getting Started
 
 ```bash
 cd mobile
